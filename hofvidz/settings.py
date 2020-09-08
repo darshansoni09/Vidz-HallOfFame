@@ -26,7 +26,7 @@ SECRET_KEY = '_&qc=ic3i%dm6_b@kz3t$17j02xu+!f1@)l7vq#e4@e1i4j4&e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gentle-fjord-33350.herokuapp.com']
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'home'
